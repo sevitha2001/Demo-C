@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h> 
-7
 #include <unistd.h>
 #include <sys/types.h>
-main()
+void main()
 {
  pid_t pid;
  int x = 5;
